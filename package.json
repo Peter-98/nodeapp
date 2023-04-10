@@ -13,7 +13,7 @@
     "express": "^4.17.3"
   },
     "scripts": {
-    "start": "node src/main",
+    "start": "node main",
     "test": "jest",
     "test-jenkins": "jest --reporters=default --reporters=jest-junit", 
   },
